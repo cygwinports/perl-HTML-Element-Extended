@@ -1,0 +1,13 @@
+CPAN_AUTHOR=msisk
+inherit perl
+
+NAME="perl-HTML-Element-Extended"
+VERSION=1.18
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl distribution HTML-Element-Extended"
+DESCRIPTION="HTML-Element-Extended is a package of several enhanced
+HTML::Element classes, most of which arose during the effort to implement
+an HTML::Element based table class."
+
+ARCH=noarch
